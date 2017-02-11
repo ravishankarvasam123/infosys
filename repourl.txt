@@ -1,0 +1,4 @@
+
+ http://svn2.sliksvn.com/precise_devops
+  uid:devops
+  pwd:123456789
