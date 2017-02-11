@@ -1,0 +1,10 @@
+*how to export an file from local host to repository:
+simple steps:
+right click on folder
+ tortoise svn---import ----- give URL ----enter UID,PWD ---click
+after click, it will transfer file from local host to repository.
+note: once it exported to repo, it will change revision 0 to 1.
+How to import an file from repo to host:
+-------------------------------------
+right click on destination folder
+tortoisesvn ----export---check url,export directory---ok
